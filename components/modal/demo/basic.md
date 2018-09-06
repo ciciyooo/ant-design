@@ -52,8 +52,6 @@ class App extends React.Component {
           onCancel={this.handleCancel}
         >
           <p>Some contents...</p>
-          <p>Some contents...</p>
-          <p>Some contents...</p>
         </Modal>
       </div>
     );
